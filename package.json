@@ -1,0 +1,8 @@
+{
+    "name": "CoPaLa_1.0",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "artur",
+    "contributors": [],
+    "dependencies": {}
+}
